@@ -4,7 +4,7 @@ char buffer[100000];
 char end[10000];
 char nomeAluno [10000];
 
-void freq(char *tipo, int n, FILE *aluno) {
+void func(char *tipo, int n, FILE *aluno) {
 	char temp[100];
 	sprintf(temp,"%s%d.txt", tipo, n);
 	FILE *archive = fopen (temp, "r");
@@ -36,51 +36,51 @@ int main () {
 
 	printf("Frequencia: ");
 	scanf("%d", &frequencia);
-	freq ("freq", frequencia, aluno);
+	func ("freq", frequencia, aluno);
 
 	printf("Social: ");
 	scanf("%d", &social);
-	freq ("social", social, aluno);
+	func ("social", social, aluno);
 
 	printf("Atividade: ");
 	scanf("%d", &atividade);
-	freq ("ativ", atividade, aluno);
+	func ("ativ", atividade, aluno);
 
 	printf("Oral: ");
 	scanf("%d", &oral);
-	freq ("oral", oral, aluno);
+	func ("oral", oral, aluno);
 
 	printf("Portugues: ");
 	scanf("%d", &portugues);
-	freq ("portugues", portugues, aluno);
+	func ("portugues", portugues, aluno);
 
 	printf("Arte: ");
 	scanf("%d", &arte);
-	freq ("artes", arte, aluno);
+	func ("artes", arte, aluno);
 
 	printf("Ed. Fisica: ");
 	scanf("%d", &edfisica);
-	freq ("edfisica", edfisica, aluno);
+	func ("edfisica", edfisica, aluno);
 
 	printf("Matematica: ");
 	scanf("%d", &matematica);
-	freq ("matematica", matematica, aluno);
+	func ("matematica", matematica, aluno);
 
 	printf("Ciencias: ");
 	scanf("%d", &ciencias);
-	freq ("ciencias", ciencias, aluno);
+	func ("ciencias", ciencias, aluno);
 
 	printf("Historia: ");
 	scanf("%d", &historia);
-	freq ("historia", historia, aluno);	
+	func ("historia", historia, aluno);	
 
 	printf("Geografia: ");
 	scanf("%d", &geografia);
-	freq ("geografia", geografia, aluno);
+	func ("geografia", geografia, aluno);
 
 	printf("Ingles: ");
 	scanf("%d", &ingles);
-	freq ("ingles", ingles, aluno);
+	func ("ingles", ingles, aluno);
 	
 	return 0;
 }

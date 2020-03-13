@@ -1,6 +1,6 @@
 # Auto Text Files | Agrupador de textos
 
-Programa criado em julho de 2019 para ajudar minha mãe, que estava realizando uma tarefa repetitiva de copiar e colar textos, vi que era uma oportunidade interessante para aprender mais sobre <b>C e arquivos</b>. Posteriormente, adicionei uma GUI, utilizando <br>Qt</br> e aproveitei para substituir os arquivos por um banco de dados e também aprender mais sobre estes.
+Programa criado em julho de 2019 para ajudar minha mãe, que estava realizando uma tarefa repetitiva de copiar e colar textos, vi que era uma oportunidade interessante para aprender mais sobre <b>C e arquivos</b>. Posteriormente, adicionei uma GUI, utilizando <b>Qt</b> e aproveitei para substituir os arquivos por um banco de dados e também aprender mais sobre estes.
 
 <h4> Objetivo </h4>
 Basicamente, existem 12 categorias, cada categoria possue vários textos diferentes, identificado por um número. Assim, o objetivo do programa é capturar o texto referente ao número de cada categoria e agrupar esses 12 textos em apenas 1.

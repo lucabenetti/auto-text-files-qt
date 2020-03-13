@@ -1,9 +1,20 @@
-# autoTextFiles
+# Auto Text Files | Agrupador de textos
 
-Tela principal:
+Programa criado em julho de 2019 para ajudar minha mãe, que estava realizando uma tarefa repetitiva de copiar e colar textos, vi que era uma oportunidade interessante para aprender mais sobre C e arquivos. Posteriormente, adicionei uma GUI, utilizando Qt e aproveitei para substituir os arquivos por um banco de dados e também aprender mais sobre estes.
+
+Basicamente, existem 12 categorias, cada categoria possue vários textos diferentes, identificado por um número. Assim, o objetivo do programa é capturar o texto referente ao número de cada categoria e agrupar esses 12 textos em apenas 1.
+
+[v0.1:](https://github.com/lucabenetti/auto-text-files-qt/tree/master/v0.1) GUI e banco de dados.  
+[v1.0:](https://github.com/lucabenetti/auto-text-files-qt/tree/master/v1.0) DOS e arquivos.
+
+Telas
+-------
+
+<h4>- Tela principal: </h4> </br>
+
 <img src="https://raw.githubusercontent.com/lucabenetti/auto-text-files-qt/master/imgs/mainwindow.png" data-canonical-src="https://raw.githubusercontent.com/lucabenetti/auto-text-files-qt/master/imgs/mainwindow.png" width="40%" height="40%" />
 
-Se ao clicar em "gerar ficha" for deixado em branco algum dos campos ou for digitado um número que não contém texto para aquele tipo, será apresentada a mensagem:
+- Se ao clicar em "gerar ficha" for deixado em branco algum dos campos ou for digitado um número que não contém texto para aquele tipo, será apresentada a mensagem:
 <img src="https://raw.githubusercontent.com/lucabenetti/auto-text-files-qt/master/imgs/main-window-errormsg.png" data-canonical-src="https://raw.githubusercontent.com/lucabenetti/auto-text-files-qt/master/imgs/main-window-errormsg.png" width="40%" height="40%" />
 
 Tela que se abre quando "gerar ficha" é clicado na Tela Principal:

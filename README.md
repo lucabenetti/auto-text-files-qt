@@ -36,8 +36,8 @@ Screens | Telas
 - Mensagem que informa o sucesso da cópia do texto para clipboard ao clicar em "copiar texto":</br>
 <img src="https://raw.githubusercontent.com/lucabenetti/auto-text-files-qt/master/imgs/gerar-ficha-msg.png" data-canonical-src="https://raw.githubusercontent.com/lucabenetti/auto-text-files-qt/master/imgs/gerar-ficha-msg.png" width="40%" height="40%" />
 
-<h4> - Screen that opens up when "atualizar textos" is clicked - see the dropdown menu with 12 options
-  - Tela que se abre ao clicar "Atualizar textos" na Tela Principal - atentar ao menu de seleção com 12 opções:</h4></br>
+- <b>Screen that opens up when "atualizar textos" is clicked - see the dropdown menu with 12 options </b>
+- <b>Tela que se abre ao clicar "Atualizar textos" na Tela Principal - atentar ao menu de seleção com 12 opções:</b>
 <img src="https://raw.githubusercontent.com/lucabenetti/auto-text-files-qt/master/imgs/atualizar-texto.png" data-canonical-src="https://raw.githubusercontent.com/lucabenetti/auto-text-files-qt/master/imgs/atualizar-texto.png" width="40%" height="40%" />
 
 - Message that inform that the text was successful copied to clipboard ('Text updated') 

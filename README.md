@@ -7,6 +7,7 @@ Basically, there are 12 categories, each category has several different texts, i
 
 - [v0.1:](https://github.com/lucabenetti/auto-text-files-qt/tree/master/v0.1) GUI and database.  
 - [v1.0:](https://github.com/lucabenetti/auto-text-files-qt/tree/master/v1.0) DOS and files.
+- [Qt version 5.9.5](https://www.qt.io/download)
 
 PT-BR
 ------
